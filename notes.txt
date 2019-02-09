@@ -1,0 +1,19 @@
+1 - Installing React
+
+    1.1 Locally -  npm install create-react-app
+        this will create a node_modules folder with create-react-app aplication into bin folder
+    1.2 Globally -   npm install -g create-react-app
+        this will provide a create-react-app aplication  globally in ypur system
+
+2 - Creating an app from a Local react installation
+
+    2.1 ./node_modules/.bin/create-react-app cdc-admin
+    2.2  Running npm start will bring a server with the application running and a watcher
+         React allows writing xml over js through of JSX Language
+         React allows the creating of Simple Page Applications
+         Webpack perform the packing of all code into a bundle.js
+
+         https://purecss.io/layouts/
+         import React -> this module allow the creating of new components
+         import ReactDOM -> this module is responsible for creating elements in memory for fast manipulating of DOM
+         Use className instead of class into html components into js
